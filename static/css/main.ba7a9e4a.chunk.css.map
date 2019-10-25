@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,MACE,gBAAiB,CACjB,yBAAkB,CAAlB,sBAAkB,CAAlB,iBACF","file":"main.ba7a9e4a.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.post {\n  margin: 50px auto;\n  width: max-content;\n}\n"]}
